@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/curve_horizontal_left" android:top="0.0dip" android:right="@dimen/curve_horizontal_right" android:bottom="@dimen/curve_bottom_inset">
+        <shape>
+            <corners android:radius="@dimen/curve_radius" />
+            <solid android:color="@color/transparent" />
+        </shape>
+    </item>
+</layer-list>

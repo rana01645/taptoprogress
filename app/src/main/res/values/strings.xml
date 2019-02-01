@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Tap to Progress</string>
+    <string name="taptoload">Tap to load trickbd.com</string>
+</resources>

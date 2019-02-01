@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="curve_bottom_inset">-500.0dip</dimen>
+    <dimen name="curve_horizontal_left">-145.0dip</dimen>
+    <dimen name="curve_horizontal_right">-120.0dip</dimen>
+    <dimen name="curve_radius">360.0dip</dimen>
+    <dimen name="curve_width">10.0dip</dimen>
+    <dimen name="tapandhold_buttonHeight_inner">120.0dip</dimen>
+    <dimen name="tapandhold_buttonHeight_middle">130.0dip</dimen>
+    <dimen name="tapandhold_buttonHeight_outter">140.0dip</dimen>
+    <dimen name="margin_10">10.0dip</dimen>
+</resources>
